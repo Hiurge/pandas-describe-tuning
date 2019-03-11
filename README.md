@@ -1,5 +1,5 @@
-### pandas-describe-tuning
+### Tunned pandas describe() function. 
 
-Tunned pandas describe() function to return (also, on each dataset column):
+Besides it's descriptive statistics pick for every dataset column, it returns:
 - values/counts/uniques/proportions
-- some extra statistics: mode, curtosis, dtype, skewnes etc.
+- some extra descriptive statistics: mode, curtosis, dtype, skewnes etc.
